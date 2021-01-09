@@ -1,0 +1,167 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+/* Header Area */
+.header-area{
+    color: white;
+    text-align: center;
+    background-color: rgb(12, 8, 8);
+}
+.innner-header{
+    width: 50%;
+    margin: auto;
+}
+
+.inner{
+    width: 60%;
+    margin: auto;
+}
+
+
+/* work Area */
+.work-area{
+}
+.work-area::after{
+    content: " ";
+    clear: both;
+    display: block;
+}
+.inner-work{
+    width: 60%;
+    margin: auto;
+}
+.box-area{
+    width: 100%;
+}
+.box1{
+    width: 32%;
+    float: left;
+}
+.box2{
+    width: 32%;
+    float: left;
+    overflow: hidden;
+}
+.box3{
+    width: 32%;
+    float: left;
+}
+
+/* protfolio Area */
+.protfolio-area{
+    background-color: #0C0808;
+    color: white;
+}
+.nav ul{
+    text-align: center;
+}
+.nav ul::after{
+    content: " ";
+    clear: both;
+    display: block;
+}
+.nav ul li{
+    list-style: none;
+    float: left; 
+    text-align: center;
+}
+.nav ul li a{
+    color: white;
+    padding: 20px 20px;
+}
+.protfolio-box{
+    width: 100%;
+}
+.protfolio-box::after{
+    content: " ";
+    clear: both;
+    display: block;
+}
+.p-box-1{
+    width: 32%;
+    float: left;
+}
+.p-box-2{
+    width: 32%;
+    float: left;
+}
+.p-box-3{
+    width: 32%;
+    float: left;
+}
+.p-box-4{
+    width: 32%;
+    float: left;
+}
+.p-box-5{
+    width: 32%;
+    float: left;
+}
+.p-box-6{
+    width: 32%;
+    float: left;
+}
+
+/* Photography-area */
+.photography-box::after{
+    content: " ";
+    clear: both;
+    display: block;
+}
+.ph-box-1{
+    width: 32%;
+    float: left;
+}
+.ph-box-2{
+    width: 32%;
+    float: left;
+}
+.ph-box-3{
+    width: 32%;
+    float: left;
+}
+.ph-box-4{
+    width: 32%;
+    float: left;
+}
+.ph-box-5{
+    width: 32%;
+    float: left;
+}
+.ph-box-6{
+    width: 32%;
+    float: left;
+}
+
+/* subscribe-area */
+.subscribe-area{
+    text-align: center;
+    background-color: #0C0808;
+    color: white;
+}
+
+/* footer area */
+.footer-area{
+    text-align: center;
+}
+.icon{
+    width: 100%;
+}
+.icon ul::after{
+    contain: " ";
+    clear: both;
+    display: block;
+}
+.icon ul li{
+    list-style: none;
+    float: left;
+}
+.icon ul li a i{
+    color: rgb(0, 0, 0);
+    padding: 40px 40px;
+}
+.copyright-area{
+    overflow: hidden;
+    width: 100%;
+}
