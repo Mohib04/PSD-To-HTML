@@ -84,25 +84,43 @@ body{
     width: 32%;
     float: left;
 }
+.p-box-1 img{
+    width: 70%;
+}
 .p-box-2{
     width: 32%;
     float: left;
+}
+.p-box-2 img{
+    width: 70%;
 }
 .p-box-3{
     width: 32%;
     float: left;
 }
+.p-box-3 img{
+    width: 70%;
+}
 .p-box-4{
     width: 32%;
     float: left;
+}
+.p-box-4 img{
+    width: 70%;
 }
 .p-box-5{
     width: 32%;
     float: left;
 }
+.p-box-5 img{
+    width: 70%;
+}
 .p-box-6{
     width: 32%;
     float: left;
+}
+.p-box-6 img{
+    width: 70%;
 }
 
 /* Photography-area */
@@ -115,25 +133,43 @@ body{
     width: 32%;
     float: left;
 }
+.ph-box-1- img{
+    width: 70%;
+}
 .ph-box-2{
     width: 32%;
     float: left;
+}
+.ph-box-2- img{
+    width: 70%;
 }
 .ph-box-3{
     width: 32%;
     float: left;
 }
+.ph-box-3- img{
+    width: 70%;
+}
 .ph-box-4{
     width: 32%;
     float: left;
+}
+.ph-box-4- img{
+    width: 70%;
 }
 .ph-box-5{
     width: 32%;
     float: left;
 }
+.ph-box-5- img{
+    width: 70%;
+}
 .ph-box-6{
     width: 32%;
     float: left;
+}
+.ph-box-6- img{
+    width: 70%;
 }
 
 /* subscribe-area */
