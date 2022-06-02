@@ -15,5 +15,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: ftp.onlinecompany.live
-        username: ftp.onlinecompany.live
+        username: local@onlinecompany.live
         password: ?mQ?hpb,yA4$
